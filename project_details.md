@@ -4,6 +4,8 @@ title: Project Details
 permalink: "/project_details/"  
 ---  
 
+https://vukoz-oel.github.io/AKUVEG/project_details/
+
 # Introduction:
 
 The main concept of project CL01000058 is to identify suitable spatial and species compositions of vegetative strips of trees, which will be deliberately established to mitigate noise from transportation. The project's goal is to conduct repeated measurements at the same locations under different conditions. All research will be carried out with respect to future road and rail safety, ensuring that no vegetation falls and endangers lives or property. Additionally, attention will be paid to climate change, as measurements will include structures expected to be in use 20-30 years from now.  
