@@ -4,7 +4,6 @@ title: Project Details
 permalink: "/project_details/"  
 ---  
 
-https://vukoz-oel.github.io/AKUVEG/project_details/
 
 # Introduction:
 
