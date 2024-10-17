@@ -1,8 +1,8 @@
----
-layout: default
-title: Project Details
-published: true
----
+---  
+layout: default  
+title: Project Details  
+permalink: "/project_details/"  
+---  
 
 # Introduction:
 
