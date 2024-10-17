@@ -1,6 +1,11 @@
+<!-- This is a comment -->
+<!-- Use two spaces to breake line -->
+<!-- **bold**, *italic*, # header 1, ## header 2 ... -->
+<!-- Enter empty line before table to render it correctly -->
+
 # AKUVEG  
 
-## Project goals:  
+## **Project goals**   
 
 The aim of the project is to develop a public methodology on the use of vegetation belts for traffic
 noise attenuation and an accompanying illustrative database. Further partial research information
@@ -10,3 +15,9 @@ species composition, spatial structure and density, phenological phase, width an
 respect to climate change. Vegetation can also be assumed to have another significant ecological
 and (bio)climatological function.  
 
+### **Funding**  
+
+This project is co-financed with state support from the Technology Agency of the Czech Republic and the Ministry of Transport of the Czech Republic under the TRANSPORT 2030 Program. This project was financed under the National Recovery Plan from the European Recovery and Resilience Facility.  
+
+![nextgen_logo](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/nextgen_logo.jpg?raw=true) 
+![tacr_logo](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/tacr_logo.jpg?raw=true) 

@@ -2,7 +2,7 @@ remote_theme: tuur29/pages-themes-cayman
 title: ACUVEG
 description: Determination and optimization of vegetation belts of natural woody composition serving to traffic noise attenuation.
 show_downloads: true
-darkmode: false
+darkmode: true
 
 hide_first_title: true # Useful if README.md is used on both github and pages
 
