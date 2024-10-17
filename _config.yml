@@ -17,7 +17,7 @@ buttons:
       zip_url: https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/project_details.md
       zip_title: Project details
       zip_hide: false
-      tar_url: https://forestgeo.si.edu/sites/europe/zofin
+      tar_url: https://github.com/VUKOZ-OEL/AKUVEG/blob/main/DATABASE/readme.md
       tar_title: Noise attenuation database
       tar_hide: false
       github_hide: true # hides "View on Github"
