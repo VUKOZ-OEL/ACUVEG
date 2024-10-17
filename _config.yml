@@ -15,9 +15,9 @@ colors:
   section_title: "#155799" # this default to gradient_color
 buttons:
       zip_url: https://naturalforests.cz/
-      zip_title: More about team
+      zip_title: Project details
       zip_hide: false
       tar_url: https://forestgeo.si.edu/sites/europe/zofin
-      tar_title: View plot details
+      tar_title: Noise attenuation database
       tar_hide: false
-      github_hide: false # hides "View on Github"
+      github_hide: true # hides "View on Github"
