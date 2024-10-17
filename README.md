@@ -20,4 +20,4 @@ and (bio)climatological function.
 This project is co-financed with state support from the Technology Agency of the Czech Republic and the Ministry of Transport of the Czech Republic under the TRANSPORT 2030 Program. This project was financed under the National Recovery Plan from the European Recovery and Resilience Facility.  
 
 ![nextgen_logo](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/nextgen_logo.jpg?raw=true)  
-![tacr_logo](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/tacr_logo.png?raw=true)   
+![tacr_logo](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/tacr_logo.png?raw=true height="200")   
