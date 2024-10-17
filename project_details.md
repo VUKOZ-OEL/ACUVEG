@@ -24,5 +24,3 @@ Technical findings from the research will be summarized in the form of recommend
 Contact:
 Ing. Blanka Hablovičová
 blanka.hablovicova@cdv.cz
-
-permalink: https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/project_details.html
