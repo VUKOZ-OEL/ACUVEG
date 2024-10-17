@@ -5,7 +5,8 @@
 
 # AKUVEG  
 
-## **Project goals**   
+# Project
+## **Goals**   
 
 The aim of the project is to develop a public methodology on the use of vegetation belts for traffic
 noise attenuation and an accompanying illustrative database. Further partial research information
@@ -15,17 +16,14 @@ species composition, spatial structure and density, phenological phase, width an
 respect to climate change. Vegetation can also be assumed to have another significant ecological
 and (bio)climatological function.  
 
-#### Project Coordinator: 
 
-Transport Research Centre, v. v. i.
+#### Partners:
+Transport Research Centre, v. v. i. (Coordinator)
+The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, v. v. i.  
+Mendel University in Brno  
 
-#### Project Partners:
-
-The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, v. v. i.
-Mendel University in Brno
-
-##### Project no.: CL01000058
-##### Project duration: 01/2024 – 06/2026
+**Project no.**: CL01000058
+**Project duration**: 01/2024 – 06/2026
 
 ### **Funding**  
 
