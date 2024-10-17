@@ -3,8 +3,6 @@
 <!-- **bold**, *italic*, # header 1, ## header 2 ... -->
 <!-- Enter empty line before table to render it correctly -->
 
-# AKUVEG  
-
 
 ## Project goals   
 
