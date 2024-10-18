@@ -2,8 +2,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Traffic noise attenuation]
-description: ["test \n test \n test 3"]
+title: [AKUVEG]
+description: ["A project to investigate traffic noise attenuation by vegetation"]
 
 logo: "https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/logo.webp?raw=true"
 
