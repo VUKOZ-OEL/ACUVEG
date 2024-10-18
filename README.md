@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: "/AKUVEG/"
+published: true
 ---
 
 ## Project goals   
