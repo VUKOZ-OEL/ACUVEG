@@ -3,7 +3,18 @@ plugins:
 - jekyll-remote-theme
 
 title: [AKUVEG]
-description: ["Project to investigate traffic noise attenuation by vegetation"]
+#description: ["Project to investigate traffic noise attenuation by vegetation"]
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Partners:
+  <br><br>
+  Transport Research Centre, v. v. i. (Coordinator)   
+  <br><br>
+  Research Institute for Landscape, v. v. i.   
+  <br><br>
+  Mendel University in Brno   
+  <br><br>
+  <br><br>
+  <a href="https://vukoz-oel.github.io/AKUVEG/database/">DATABASE</a> 
 
 logo: "https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/logo2.png?raw=true"
 
