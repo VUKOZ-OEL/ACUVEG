@@ -5,11 +5,9 @@ permalink: "/database/"
 published: true
 ---
 
-# DATABASE
-
 This page features preview of database, full web version is [here]()  
 
-Zha data can be downloaded in [tabular form](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/database/database.txt). File includes detailed description of forest stand, noise attenuation measurement and LiDAR data derived variables.  
+Tha data can be downloaded in [tabular form](https://github.com/VUKOZ-OEL/AKUVEG/blob/main/database/database.txt). File includes detailed description of forest stand, noise attenuation measurement and LiDAR data derived variables.  
 
 
 

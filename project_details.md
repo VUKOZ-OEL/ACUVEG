@@ -1,6 +1,6 @@
 ---  
 layout: subpage  
-title: Project Details  
+title: AKUVEG Project Details  
 intro: Aim, metohodology and results description
 permalink: "/project_details/"  
 ---  
