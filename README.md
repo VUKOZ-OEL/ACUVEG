@@ -3,7 +3,11 @@ The aim of the project "***Determination and optimization of vegetation belts of
 [More obout the project...](https://vukoz-oel.github.io/AKUVEG/project_details/)  
 
 
+
 ## [The database of forest types and its noise attenuation properties can be found here.](https://vukoz-oel.github.io/AKUVEG/database/)  
+
+
+
 
 
 ### **Funding**  
@@ -16,7 +20,7 @@ This project is co-financed with state support from the Technology Agency of the
 <img src="https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/nextgen_logo.jpg?raw=true" height="78" alt="nextgen_logo">  <img src="https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/tacr_logo.png?raw=true" height="78" alt="nextgen_logo">  
 
 
-<span style="color:red">This is red text</span>
+
 
 
 <!-- This is a comment -->
