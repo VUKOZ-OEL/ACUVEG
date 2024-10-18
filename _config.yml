@@ -1,4 +1,5 @@
-remote_theme: tuur29/pages-themes-cayman
+remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme: tuur29/pages-themes-cayman 
 title: ACUVEG Project
 description: Determination and optimization of vegetation belts of natural woody composition serving to traffic noise attenuation.
 show_downloads: true
@@ -21,3 +22,5 @@ buttons:
       tar_title: Database
       tar_hide: false
       github_hide: true # hides "View on Github"
+
+
