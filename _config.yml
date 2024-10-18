@@ -1,26 +1,7 @@
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 # remote_theme: tuur29/pages-themes-cayman 
 title: ACUVEG Project
-description: Determination and optimization of vegetation belts of natural woody composition serving to traffic noise attenuation.
-show_downloads: true
-darkmode: false
+#description: Determination and optimization of vegetation belts of natural woody composition serving to traffic noise attenuation.
 
-hide_first_title: true # Useful if README.md is used on both github and pages
-
-colors:
-  header: "#000"
-  gradient_left: "#a3a367"
-  gradient_right: "#f57c00"
-  android_theme: "#000" # this default to gradient_color
-  link: "#000000" # this default to gradient_color #1e6bb8
-  section_title: "#155799" # this default to gradient_color
-buttons:
-      zip_url: "https://vukoz-oel.github.io/AKUVEG/project_details/"
-      zip_title: Details
-      zip_hide: false
-      tar_url: "https://vukoz-oel.github.io/AKUVEG/database/"
-      tar_title: Database
-      tar_hide: false
-      github_hide: true # hides "View on Github"
 
 
