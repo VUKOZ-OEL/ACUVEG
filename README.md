@@ -11,6 +11,8 @@ Mendel University in Brno
 **Project no.**: CL01000058  
 **Project duration**: 01/2024 – 06/2026  
 
+[**More obout the project**]("https://vukoz-oel.github.io/AKUVEG/project_details/") [Noise attenuation database](https://vukoz-oel.github.io/AKUVEG/database/)  
+
 ### **Funding**  
 
 This project is co-financed with state support from the Technology Agency of the Czech Republic and the Ministry of Transport of the Czech Republic under the TRANSPORT 2030 Program. This project was financed under the National Recovery Plan from the European Recovery and Resilience Facility.  
