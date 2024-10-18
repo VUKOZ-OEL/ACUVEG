@@ -1,9 +1,3 @@
----
-layout: default
-title: AKUVEG Database
-permalink: "/AKUVEG/"
-published: true
----
 
 ## Project goals   
 
