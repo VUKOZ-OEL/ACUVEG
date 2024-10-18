@@ -20,6 +20,7 @@ buttons:
       tar_url: "https://vukoz-oel.github.io/AKUVEG/database/"
       tar_title: Database
       tar_hide: false
-      github_hide: true # hides "View on Github"
+      github_hide: false # hides "View on Github"
+      github_title: "github"
 
 
