@@ -8,11 +8,6 @@ Mendel University in Brno
 
  [**More obout the project**](https://vukoz-oel.github.io/AKUVEG/project_details/)  [**Noise attenuation database**](https://vukoz-oel.github.io/AKUVEG/database/)  
 
-**Partners:**  
-Transport Research Centre, v. v. i. (Coordinator)  
-The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, v. v. i.  
-Mendel University in Brno  
-
 **Project no.**: CL01000058  
 **Project duration**: 01/2024 – 06/2026  
 
