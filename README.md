@@ -6,9 +6,7 @@ The aim of the project "***Determination and optimization of vegetation belts of
 
 ## [The database of forest types and its noise attenuation properties can be found here.](https://vukoz-oel.github.io/AKUVEG/database/)  
 
-
-
-
+<br><br><br>
 
 ### **Funding**  
 
