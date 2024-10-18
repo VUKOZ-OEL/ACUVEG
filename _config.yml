@@ -1,9 +1,5 @@
-#remote_theme: jekyll/minima
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 title: [AKUVEG]
 description: ["Partners:  Transport Research Centre, v. v. i. (Coordinator)  
