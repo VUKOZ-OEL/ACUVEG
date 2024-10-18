@@ -1,7 +1,12 @@
 
-# Determination and optimization of vegetation belts of natural woody composition serving to traffic noise attenuation.
+## Determination and optimization of vegetation belts of natural woody composition serving to traffic noise attenuation.
 
 The aim of the project is to develop a public methodology on the use of vegetation belts for traffic noise attenuation and an accompanying illustrative database. Further partial research information obtained will be used for the modifications of the technical regulations. The main idea is to find a suitable spatial and species composition of woody plants, which will be established specifically to attenuate traffic noise. Measurements will focus on different woody species composition, spatial structure and density, phenological phase, width and height of belts, etc. Vegetation stands that are expected to be usable in at least 20-30 years will be examined with respect to climate change. Vegetation can also be assumed to have another significant ecological and (bio)climatological function.  
+
+**Partners**:  
+Transport Research Centre, v. v. i. (Coordinator)  
+The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, v. v. i.  
+Mendel University in Brno  
 
  [**More obout the project**](https://vukoz-oel.github.io/AKUVEG/project_details/)  [**Noise attenuation database**](https://vukoz-oel.github.io/AKUVEG/database/)  
 
