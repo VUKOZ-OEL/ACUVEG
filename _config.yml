@@ -1,10 +1,14 @@
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: jekyll/minima
+theme: minima
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
 title: [AKUVEG]
-description: [ "**Partners**: Transport Research Centre, v. v. i. (Coordinator)  
+description: ["Partners:  Transport Research Centre, v. v. i. (Coordinator)  
 The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, v. v. i.  
-Mendel University in Brno"]
+Mendel University in Brno  "]
 
 minima:
   # Minima skin selection.
@@ -16,3 +20,9 @@ minima:
   # solarized-dark     Dark variant of solarized color scheme.
   # solarized          Adaptive skin for solarized color scheme skins.
   skin: solarized
+
+
+
+
+
+  #remote_theme: pages-themes/minimal@v0.2.0
