@@ -1,9 +1,13 @@
 remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 title: [AKUVEG]
 description: ["Partners:  Transport Research Centre, v. v. i. (Coordinator)  
 The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, v. v. i.  
 Mendel University in Brno  "]
 
-logo: "https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/logo.png?raw=true"
+logo: "https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/logo.webp?raw=true"
+
+
 
