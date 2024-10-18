@@ -1,8 +1,8 @@
-<!-- This is a comment -->
-<!-- Use two spaces to breake line -->
-<!-- **bold**, *italic*, # header 1, ## header 2 ... -->
-<!-- Enter empty line before table to render it correctly -->
-
+---
+layout: default
+title: AKUVEG project
+published: true
+---
 
 ## Project goals   
 
@@ -23,3 +23,15 @@ This project is co-financed with state support from the Technology Agency of the
 
 <img src="https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/nextgen_logo.jpg?raw=true" height="78" alt="nextgen_logo">  <img src="https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/tacr_logo.png?raw=true" height="78" alt="nextgen_logo">  
 
+
+
+
+
+
+
+
+
+<!-- This is a comment -->
+<!-- Use two spaces to breake line -->
+<!-- **bold**, *italic*, # header 1, ## header 2 ... -->
+<!-- Enter empty line before table to render it correctly -->
