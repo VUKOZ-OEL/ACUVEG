@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 title: AKUVEG Database
 permalink: "/database/"
 published: true
