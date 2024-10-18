@@ -3,10 +3,10 @@ plugins:
 - jekyll-remote-theme
 
 title: [AKUVEG]
-description: ["A project to investigate traffic noise attenuation by vegetation"]
+description: ["Project to investigate traffic noise attenuation by vegetation"]
 
 logo: "https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/logo.png?raw=true"
 
-
-zip_download: "https://example.com/path/to/your/file.zip"
-other_link: "https://example.com/your-page"
+github:
+  zip_url: http://example.com/download.zip
+  another_url: http://example.com/download.zip

@@ -6,13 +6,16 @@ permalink: "/project_details/"
 ---  
 
 
-# Introduction:
+## Introduction:
 
 The main concept of the prject is to identify suitable spatial and species compositions of vegetative strips of trees, which will be deliberately established to mitigate noise from transportation. The project's goal is to conduct repeated measurements at the same locations under different conditions. All research will be carried out with respect to future road and rail safety, ensuring that no vegetation falls and endangers lives or property. Additionally, attention will be paid to climate change, as measurements will include structures expected to be in use 20-30 years from now.  
 
 Acoustic measurements and laser scanning will take place at selected locations. The primary "model" measurements will occur at the Masaryk Forest Křtiny, where the noise source will be an omnidirectional Brüel & Kjær source. Real vegetation along roads will also be measured, with the noise source being the actual traffic. Based on these real-world measurements, the influence of individual parameters on noise attenuation will be identified, and a methodology for establishing tree strips near roads will be developed. A technical regulation (either one or multiple based on the requirements of the Ministry of Transport) will then be updated with the obtained information, which can also be used to update SŽ documents. The database will assist in designing noise reduction measures.
 
-# Project Results:
+## Methodology
+TODO
+
+## Project Results:
 
 ### **NmetS** - Use of Natural Tree Species Strips for Traffic Noise Attenuation
 The methodology will focus on the optimal structure (tree species composition, spatial arrangement, and width) of natural tree species strips and define their effectiveness in noise attenuation, both seasonally (year-round) and throughout their life cycle (lifespan, rotation period). These structures will also be related to site conditions for their optimal installation along roads. The methodology will include guidelines for the establishment and maintenance of vegetative strips. This approved methodology will be available to professionals and the general public on the CDV website. A link to the methodology will also be available on the project’s (TAČR) website and potentially on the websites of other project participants or the Ministry of Transport.
