@@ -1,7 +1,5 @@
 ---
 layout: default
-title: AKUVEG project
-published: true
 ---
 
 ## Project goals   
