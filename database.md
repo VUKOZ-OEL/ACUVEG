@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AKUVEG Database
+title: ACUVEG Database
 permalink: "/database/"
 published: true
 ---
