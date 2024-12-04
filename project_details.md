@@ -1,6 +1,6 @@
 ---  
 layout: default  
-title: AKUVEG Project Details  
+title: ACUVEG Project Details  
 intro: Aim, metohodology and results description
 permalink: "/project_details/"  
 ---  
