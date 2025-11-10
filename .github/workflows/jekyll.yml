@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll site
 on:
   push:
     branches:
-      - dev  # nebo main – podle toho, odkud chceš nasazovat
+      - dev  # nebo main – podle toho, odkud nasazuješ
 
 permissions:
   contents: read
@@ -25,8 +25,10 @@ jobs:
           bundler-cache: true
       - run: bundle install
       - run: bundle exec jekyll build
-      - uses: actions/upload-pages-artifact@v3
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: site
           path: _site
 
   deploy:
@@ -36,6 +38,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/download-pages-artifact@v3
-      - uses: actions/deploy-pages@v4
+      - name: Download site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: Deploy to GitHub Pages
         id: deployment
+        uses: actions/deploy-pages@v4
