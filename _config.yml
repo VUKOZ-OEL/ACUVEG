@@ -1,28 +1,21 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-include-cache
-
-title: "ACUVEG"
+title: "ACUVEG Project"
 description: "Acoustic noise attenuation by vegetation"
+theme: jekyll-theme-cayman
 
-# Layout settings
-layout: single
-classes: wide
+# Layout options
+show_downloads: false
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      sidebar:
-        nav: "main"
+# Custom CSS
+include:
+  - assets/style.css
 
-# Sidebar navigation
-nav:
+# Navigation data for sidebar
+sidebar:
   - title: "About the Project"
     url: /
   - title: "Database"
     url: https://vukoz-oel.github.io/ACUVEG/database/
-  - title: "Research Plots"
+  - title: "Plots"
     children:
       - title: "Plot 1 – Beech Forest"
         url: /plots/plot1/
