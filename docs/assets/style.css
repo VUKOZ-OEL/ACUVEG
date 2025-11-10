@@ -1,36 +1,17 @@
 body {
   display: flex;
-  flex-direction: row;
   font-family: "Inter", sans-serif;
   background-color: #f8faf8;
-  color: #222;
-  margin: 0;
 }
 
 .sidebar {
   width: 240px;
-  background-color: #eaf2ee;
+  background: #eaf2ee;
   border-right: 2px solid #b9d4c3;
   padding: 1em;
   height: 100vh;
   position: fixed;
   overflow-y: auto;
-}
-
-.sidebar h2 {
-  color: #006c4f;
-  margin-top: 0;
-}
-
-.sidebar a {
-  color: #006c4f;
-  text-decoration: none;
-  display: block;
-  margin: 4px 0;
-}
-
-.sidebar a:hover {
-  text-decoration: underline;
 }
 
 .main-content {
@@ -39,6 +20,6 @@ body {
   max-width: 1200px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, a {
   color: #006c4f;
 }
