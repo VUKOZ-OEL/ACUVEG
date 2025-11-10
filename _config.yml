@@ -1,22 +1,44 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-- jekyll-remote-theme
+  - jekyll-include-cache
 
-title: [ACUVEG]
+title: "ACUVEG"
+description: "Acoustic noise attenuation by vegetation"
 
-logo: "https://github.com/VUKOZ-OEL/AKUVEG/blob/main/docs/assets/images/logo2.png?raw=true"
+# Layout settings
+layout: single
+classes: wide
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Acoustic noise attenuation by vegetation.
-  <br><br>
-  Project partners:
-  <br>
-  <a href="https://vukoz-oel.github.io/AKUVEG/database/">Transport Research Centre, v. v. i. (Coordinator)</a> 
-  <br>  
-  <a href="https://vukoz-oel.github.io/AKUVEG/database/">Research Institute for Landscape, v. v. i. </a> 
-  <br>
-  <a href="https://vukoz-oel.github.io/AKUVEG/database/">Mendel University in Brno</a>   
-  <br><br>
-  <a href="https://vukoz-oel.github.io/AKUVEG/database/">database.zip</a> 
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "main"
 
-
+# Sidebar navigation
+nav:
+  - title: "About the Project"
+    url: /
+  - title: "Database"
+    url: https://vukoz-oel.github.io/ACUVEG/database/
+  - title: "Research Plots"
+    children:
+      - title: "Plot 1 – Beech Forest"
+        url: /plots/plot1/
+      - title: "Plot 2 – Spruce Stand"
+        url: /plots/plot2/
+      - title: "Plot 3 – Mixed Deciduous"
+        url: /plots/plot3/
+      - title: "Plot 4 – Pine Grove"
+        url: /plots/plot4/
+      - title: "Plot 5 – Shrubland"
+        url: /plots/plot5/
+      - title: "Plot 6 – Young Plantation"
+        url: /plots/plot6/
+      - title: "Plot 7 – Meadow Edge"
+        url: /plots/plot7/
+      - title: "Plot 8 – Riparian Zone"
+        url: /plots/plot8/
+      - title: "Plot 9 – Urban Vegetation"
+        url: /plots/plot9/
