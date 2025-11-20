@@ -6,7 +6,6 @@ sidebar:
 permalink: /plots/plot9/
 ---
 
-# Plot 9 – Urban Vegetation
 
 - **Location:** TBD  
 - **Dominant species:** TBD  
